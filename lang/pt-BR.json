@@ -1,0 +1,35 @@
+{
+  "FoundryMobile14": {
+    "Settings": {
+      "Name": "Modo mobile",
+      "Hint": "A configuração vale para este navegador.",
+      "Auto": "Automático (tela de toque)",
+      "On": "Ativado",
+      "Off": "Desativado"
+    },
+    "Controls": "Controles mobile",
+    "TokenMovement": "Movimento do token",
+    "Move": "Mover",
+    "Navigate": "Navegar",
+    "Play": "Jogar",
+    "Sidebar": "Painel",
+    "ToggleMovement": "Abrir ou fechar as setas de movimento",
+    "ToggleNavigation": "Alternar o modo de navegação no mapa",
+    "ToggleSidebar": "Abrir ou fechar o painel lateral",
+    "ZoomIn": "Aproximar mapa",
+    "ZoomOut": "Afastar mapa",
+    "NavigationHint": "Arraste para deslocar o mapa. Use dois dedos para dar zoom.",
+    "MovementFailed": "O Foundry não conseguiu mover o token.",
+    "Direction": {
+      "UpLeft": "Cima e esquerda",
+      "Up": "Cima",
+      "UpRight": "Cima e direita",
+      "Left": "Esquerda",
+      "Center": "Centralizar token",
+      "Right": "Direita",
+      "DownLeft": "Baixo e esquerda",
+      "Down": "Baixo",
+      "DownRight": "Baixo e direita"
+    }
+  }
+}

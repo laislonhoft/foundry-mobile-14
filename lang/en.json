@@ -1,0 +1,35 @@
+{
+  "FoundryMobile14": {
+    "Settings": {
+      "Name": "Mobile mode",
+      "Hint": "This setting applies to the current browser.",
+      "Auto": "Automatic (touchscreen)",
+      "On": "Enabled",
+      "Off": "Disabled"
+    },
+    "Controls": "Mobile controls",
+    "TokenMovement": "Token movement",
+    "Move": "Move",
+    "Navigate": "Navigate",
+    "Play": "Play",
+    "Sidebar": "Sidebar",
+    "ToggleMovement": "Show or hide the movement arrows",
+    "ToggleNavigation": "Toggle map navigation mode",
+    "ToggleSidebar": "Open or close the sidebar",
+    "ZoomIn": "Zoom in on the map",
+    "ZoomOut": "Zoom out on the map",
+    "NavigationHint": "Drag to pan the map. Pinch with two fingers to zoom.",
+    "MovementFailed": "Foundry could not move the token.",
+    "Direction": {
+      "UpLeft": "Up and left",
+      "Up": "Up",
+      "UpRight": "Up and right",
+      "Left": "Left",
+      "Center": "Center on token",
+      "Right": "Right",
+      "DownLeft": "Down and left",
+      "Down": "Down",
+      "DownRight": "Down and right"
+    }
+  }
+}

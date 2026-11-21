@@ -1,0 +1,17 @@
+{
+  "id": "foundry-mobile-14",
+  "title": "Foundry Mobile 14",
+  "description": "Touch controls for token movement, map navigation, and small-screen layouts in Foundry VTT.",
+  "version": "0.1.1",
+  "authors": [{ "name": "Foundry Mobile 14" }],
+  "compatibility": { "minimum": "14", "maximum": "14" },
+  "url": "https://github.com/laislonhoft/foundry-mobile-14",
+  "manifest": "https://github.com/laislonhoft/foundry-mobile-14/releases/latest/download/module.json",
+  "download": "https://github.com/laislonhoft/foundry-mobile-14/releases/download/v0.1.1/foundry-mobile-14-v0.1.1.zip",
+  "esmodules": ["scripts/mobile.mjs"],
+  "styles": ["styles/mobile.css"],
+  "languages": [
+    { "lang": "en", "name": "English", "path": "lang/en.json" },
+    { "lang": "pt-BR", "name": "Português (Brasil)", "path": "lang/pt-BR.json" }
+  ]
+}
